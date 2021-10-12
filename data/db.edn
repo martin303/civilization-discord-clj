@@ -1,0 +1,6 @@
+{:foo "123"}
+
+{:games {"Martins Spel" {:events [{:timestamp "2020/10/10"
+                                   :game-turn 1
+                                   :next-player "Martin"}]}
+         "Tomas spel" {}}}
